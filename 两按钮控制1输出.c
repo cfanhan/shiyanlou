@@ -1,6 +1,5 @@
 #define Q12 12
 boolean M12 = 0;
-boolean M10 = 0;
 #define I3 3  //qidong  
 boolean M3 = 0;
 #define I4 4  //tingzhi
